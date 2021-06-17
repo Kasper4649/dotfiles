@@ -88,7 +88,7 @@ export _Z_OWNER="kasper"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
-# export LANG=en_US.UTF-8
+export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
@@ -108,3 +108,7 @@ export _Z_OWNER="kasper"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+alias mv="mv -i"
+alias rm="rm -i"
+alias cp="cp -i"
