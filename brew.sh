@@ -16,3 +16,4 @@ brew install fzf
 $(brew --prefix)/opt/fzf/install
 
 brew install youtube-dl
+brew install --cask keycastr
