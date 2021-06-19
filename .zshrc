@@ -111,6 +111,7 @@ export LANG=en_US.UTF-8
 alias mv="mv -i"
 alias rm="rm -i"
 alias cp="cp -i"
+alias vim="nvim"
 
 # fzf
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
