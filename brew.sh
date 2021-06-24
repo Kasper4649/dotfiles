@@ -16,6 +16,7 @@ brew install htop
 brew install fzf
 $(brew --prefix)/opt/fzf/install
 brew install tokei
+brew install ffmpeg
 
 brew install youtube-dl
 brew install --cask keycastr
