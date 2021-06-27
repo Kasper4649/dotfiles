@@ -20,3 +20,4 @@ brew install ffmpeg
 
 brew install youtube-dl
 brew install --cask keycastr
+brew install --cask switchkey
