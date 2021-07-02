@@ -83,6 +83,7 @@ source $ZSH/oh-my-zsh.sh
 # User configuration
 export BAT_THEME="Solarized (light)"
 export _Z_OWNER="kasper"
+export ALL_PROXY=socks5://127.0.0.1:7890
 
 # export MANPATH="/usr/local/man:$MANPATH"
 
