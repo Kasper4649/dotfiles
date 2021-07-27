@@ -113,6 +113,7 @@ alias mv="mv -i"
 alias rm="rm -i"
 alias cp="cp -i"
 alias vim="nvim"
+alias top="htop"
 
 # fzf
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh

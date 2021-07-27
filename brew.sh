@@ -5,7 +5,6 @@ brew install tmux
 brew install reattach-to-user-namespace
 
 brew install yadm
-
 brew install neofetch
 brew install exa
 brew install fd
