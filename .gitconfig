@@ -3,4 +3,4 @@
 	email = imzxz123456@gmail.com
 
 [alias]
-    dog = git log --all --decorate --oneline --graph
+    dog = log --all --decorate --oneline --graph
