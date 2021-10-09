@@ -1,0 +1,6 @@
+[user]
+	name = Kasper4649
+	email = imzxz123456@gmail.com
+
+[alias]
+    dog = git log --all --decorate --oneline --graph
