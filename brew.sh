@@ -18,5 +18,5 @@ brew install tokei
 brew install ffmpeg
 brew install streamlink
 
-brew install youtube-dl
+brew install yt-dlp/taps/yt-dlp
 brew install --cask keycastr
