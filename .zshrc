@@ -128,3 +128,4 @@ export FZF_DEFAULT_OPTS='
 
 brew update
 brew upgrade
+brew cleanup --prune=all

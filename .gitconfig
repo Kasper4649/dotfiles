@@ -4,3 +4,5 @@
 
 [alias]
     dog = log --all --decorate --oneline --graph
+[https]
+	proxy = https://127.0.0.1:7890
