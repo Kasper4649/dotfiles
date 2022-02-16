@@ -9,6 +9,7 @@ brew install neofetch
 brew install exa
 brew install fd
 brew install bat
+brew install prettyping
 brew install httpie
 brew install htop
 brew install fzf

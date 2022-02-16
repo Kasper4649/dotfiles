@@ -118,6 +118,7 @@ alias cat="bat --paging=never"
 alias ls="exa --color=auto"
 alias la="exa -a --color=auto"
 alias ll="exa -lh --color=auto"
+alias ping="prettyping"
 
 # fzf
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
