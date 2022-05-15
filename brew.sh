@@ -11,6 +11,7 @@ brew install fd
 brew install bat
 brew install prettyping
 brew install httpie
+brew install hyperfine
 brew install htop
 brew install fzf
 $(brew --prefix)/opt/fzf/install
