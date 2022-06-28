@@ -8,6 +8,7 @@ brew install yadm
 brew install neofetch
 brew install exa
 brew install fd
+brew install ripgrep
 brew install bat
 brew install prettyping
 brew install httpie
