@@ -4,6 +4,8 @@ if status is-interactive
     set -Ux https_proxy http://127.0.0.1:7890
     set -Ux all_proxy socks://127.0.0.1:7890
 
+    fish_vi_key_bindings
+
     alias mv="mv -i"
     alias rm="rm -i"
     alias cp="cp -i"
