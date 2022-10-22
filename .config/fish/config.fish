@@ -17,3 +17,4 @@ if status is-interactive
     alias ll="exa -lh --color=auto"
     alias ping="prettyping"
 end
+fish_add_path /Users/kasper/.spicetify
