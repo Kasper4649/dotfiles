@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 brew install neovim
-brew install tmux
-brew install reattach-to-user-namespace
+# brew install tmux
+# brew install reattach-to-user-namespace
 
 brew install yadm
 brew install neofetch
