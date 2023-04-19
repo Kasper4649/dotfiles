@@ -5,9 +5,10 @@ brew install neovim
 # brew install reattach-to-user-namespace
 
 brew install yadm
-brew install neofetch
+# brew install neofetch
 brew install exa
 brew install fd
+brew install zoxide
 brew install ripgrep
 brew install bat
 brew install prettyping
