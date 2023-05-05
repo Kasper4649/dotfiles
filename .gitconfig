@@ -4,3 +4,4 @@
 
 [alias]
     dog = log --all --decorate --oneline --graph
+    fixup = "!f() { TARGET=$(git rev-parse \"$1\"); shift; git commit --fixup=$TARGET ${@} && GIT_EDITOR=true git rebase -i --autostash --autosquash $TARGET^; }; f"
