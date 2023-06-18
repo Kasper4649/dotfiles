@@ -16,9 +16,9 @@ if status is-interactive
     alias vim="nvim"
     alias top="htop"
     alias cat="bat --paging=never"
-    alias ls="exa --color=auto --icons"
-    alias la="exa -a --color=auto --icons"
-    alias ll="exa -lh --color=auto --icons"
-    alias tree="exa -lhT --icons"
+    alias ls="exa --color=auto"
+    alias la="exa -a --color=auto"
+    alias ll="exa -lh --color=auto"
+    alias tree="exa -lhT"
     alias ping="prettyping"
 end
