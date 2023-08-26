@@ -3,6 +3,8 @@ if status is-interactive
     set -Ux http_proxy http://127.0.0.1:7890
     set -Ux https_proxy http://127.0.0.1:7890
     set -Ux all_proxy socks://127.0.0.1:7890
+    set -x HOMEBREW_BOTTLE_DOMAIN "https://mirrors.ustc.edu.cn/homebrew-bottles"
+    set -x HOMEBREW_API_DOMAIN "https://mirrors.ustc.edu.cn/homebrew-bottles/api"
 
     fish_vi_key_bindings
     fzf_key_bindings
@@ -20,5 +22,5 @@ if status is-interactive
     alias la="exa -a --color=auto"
     alias ll="exa -lh --color=auto"
     alias tree="exa -lhT"
-    alias ping="prettyping"
+    alias la="exa -a --color=auto"
 end
