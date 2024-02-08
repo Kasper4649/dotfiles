@@ -21,5 +21,6 @@ brew install tokei
 brew install ffmpeg
 brew install streamlink
 
-brew install yt-dlp/taps/yt-dlp
+# Downie(Setapp) instead
+# brew install yt-dlp/taps/yt-dlp
 brew install --cask keycastr
