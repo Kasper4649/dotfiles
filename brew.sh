@@ -6,7 +6,7 @@ brew install neovim
 
 brew install yadm
 # brew install neofetch
-brew install exa
+brew install eza
 brew install fd
 brew install zoxide
 brew install ripgrep
